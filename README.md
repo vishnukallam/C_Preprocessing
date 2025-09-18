@@ -9,6 +9,10 @@
 ## Step-1: 
 ### Open the Tubro C++ Software and write a code (Don't include any Header File in the Code).
 ### Save the code.
-## Note: If you don't have the Turbo C++ Software, you can download it from the official website of Turbo C++ : https://turbo-c.net/turbo-c-download/
+## Note: If you don't have the Turbo C++ Software, you can download it from 
+## official website of Turbo C++: https://turbo-c.net/turbo-c-download/
+## For Windows: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Windows
+## For Mac: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Mac
+## For Linux: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Linux
 ## Step-2:
 ### 
