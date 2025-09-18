@@ -14,5 +14,7 @@
 ### For Windows: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Windows
 ### For Mac: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Mac
 ### For Linux: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Linux
+### This will download as a zip file. After unzipping it, you have to download the .msi (Microsoft Installer) file.
+![Image](https://github.com/user-attachments/assets/36ca06c8-c931-41cf-a6d8-b727998a2c57)
 ## Step-2:
 ### 
