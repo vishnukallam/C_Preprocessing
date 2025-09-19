@@ -13,7 +13,7 @@
 ### For Windows: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Windows
 ### For Mac: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Mac
 ### For Linux: https://turbo-c.net/turbo-c-download/#Download_Turbo_C_for_Linux
-### This will download as a zip file. After unzipping it, you have to download the _.msi (Microsoft Installer)_ file.
+### This will provide a zip file for download. After unzipping it, you have to download the _.msi (Microsoft Installer)_ file.
 ![Image](https://github.com/user-attachments/assets/5ae9ce78-f7b2-4fec-8c90-afd2c2f1d724)
 ## Step-2:
 ### Launch Turbo C++ software. The interface of the Turbo C++ software.
