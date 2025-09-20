@@ -18,5 +18,5 @@
 ## Step-2:
 ### Launch Turbo C++ software. The interface of the Turbo C++ software looks like.
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e34466ab-9979-4b73-a349-83e758b2d58f" />
-### To write code in this editor, click on File and click on NEW. This will open a new file for writing code.
+# To write code in this editor, click on File and click on NEW. This will open a new file for writing code.
 ### 
