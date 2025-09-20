@@ -34,8 +34,13 @@
 ![Image](https://github.com/user-attachments/assets/67f815a5-cf0c-4339-bfdc-753e7898d18b)
 ## Step-4:
 ### Know, preprocess the C file that you saved by using the command _cpp_.
-### Type _cpp <file>_ in emulator. The C file will get preprocessed and produce the output as 
+### Type _cpp <file_name>_ which creates .I file, here .i does mean the preprocessed file.
 ![Image](https://github.com/user-attachments/assets/597f1b5f-6b45-4e6a-9267-5f45d520f63c)
+### To see the preprocessed file,  _type <file_name>.i_. This command will display the '.i' file in the emulator itself.
+![Image](https://github.com/user-attachments/assets/d5e93919-a57f-4d74-ac87-46677222aa2b)
+### If you want to open the .i file in editor mode navigate to _C:\TURBOC3\BIN_ and search for _<file_name>.i_ file
+## Step-5:
+### 
 ### You can observe the available memory(4173368). Without including the header file, the program took less memory.
 
 
