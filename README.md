@@ -21,7 +21,7 @@
 ### To write code in this editor, click on File -> New. This will open a new file for writing code. As shown in the figure above.
 ## Step-3:
 ### Write a code in Turbo C++ without including the Header files in the code.
-![Image](https://github.com/user-attachments/assets/fc835492-27eb-47d2-8aef-59f74a2bd401)
+![Image](https://github.com/user-attachments/assets/4d355617-07c5-4efa-85aa-43115c93743d)
 ### After writing the code, save it. To save the file, click on File -> Save or click on _F2_
 ### The file must be saved with '.C' extension.sa
 ## Step-4:
@@ -34,14 +34,16 @@
 ![Image](https://github.com/user-attachments/assets/67f815a5-cf0c-4339-bfdc-753e7898d18b)
 ## Step-4:
 ### Know, preprocess the C file that you saved by using the command _cpp_.
-### Type _cpp <file_name>_ which creates .I file, here .i does mean the preprocessed file.
+### Type _cpp <file_name>.C_ which creates .I file, here .i does mean the preprocessed file.
 ![Image](https://github.com/user-attachments/assets/597f1b5f-6b45-4e6a-9267-5f45d520f63c)
 ### To see the preprocessed file,  _type <file_name>.i_. This command will display the '.i' file in the emulator itself.
 ![Image](https://github.com/user-attachments/assets/d5e93919-a57f-4d74-ac87-46677222aa2b)
-### If you want to open the .i file in editor mode navigate to _C:\TURBOC3\BIN_ and search for _<file_name>.i_ file
+### If you want to open the .i file in editor mode navigate to _C:\TURBOC3\BIN_ and search for _<file_name>.i_ file.
+![Image](https://github.com/user-attachments/assets/6345d442-359d-4f5b-880e-457499d5a782)
 ## Step-5:
-### 
-### You can observe the available memory(4173368). Without including the header file, the program took less memory.
-
-
-
+### Modify the Program by including header files or macros.
+![Image](https://github.com/user-attachments/assets/5bb9d5f4-cce5-4b5b-9732-a2a8ccf2919a)
+### Once again, save the program and apply the _cpp <file_name>.C_ in MS-DOS box. The output will be
+![Image](https://github.com/user-attachments/assets/bee6639f-e175-42f0-a819-b71aa59ebf47)
+### You can observe a difference in the memory after including(Available memory is 4154208) and before including(Available memory is 4173368) the header files. 
+![Image](https://github.com/user-attachments/assets/bee6639f-e175-42f0-a819-b71aa59ebf47)
