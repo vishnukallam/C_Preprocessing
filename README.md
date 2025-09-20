@@ -47,3 +47,5 @@
 ![Image](https://github.com/user-attachments/assets/bee6639f-e175-42f0-a819-b71aa59ebf47)
 ### You can observe a difference in the memory after including(Available memory is 4154208) and before including(Available memory is 4173368) the header files. 
 ![Image](https://github.com/user-attachments/assets/bee6639f-e175-42f0-a819-b71aa59ebf47)
+### You can notice that here the header files are included, and Macros are also expanded.
+![Image](https://github.com/user-attachments/assets/e3f50e09-0dc4-4552-a7cd-a3dab2f5cc2c)
