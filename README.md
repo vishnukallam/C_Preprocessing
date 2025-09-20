@@ -2,7 +2,7 @@
 ## Hi everyone 
 ### I am here to demonstrate how the preprocessed (.i) file is modified before and after including the header file in the program.
 ### When we execute the .c file, .i file will be created. This is the first step in the compilation. This stage was done by the Preprocessor, not directly by the Compiler.
-### This .i file is the preprocessed file. This file is the primary cause of removing comments, adding the header file if any are included in the program, and expanding all defined macros in this phase.
+### This .i file is the preprocessed file. Preprocessing is the primary cause of removing comments, adding the header file if any are included in the program, and expanding all defined macros in this phase.
 # Locating the Preprocessed file in the internal memory
 ### Observing the changes in the .i file can be done in the _'Turbo C++'_ software. Because Turbo C++ contains the _MS-DOS (Microsoft Disk Operating System)_ box, this DOS box will be useful to visualize the pre-processed file.
 # Let us know the step-by-step process
